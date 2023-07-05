@@ -4,11 +4,11 @@
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-    Hello, I'm Rumen studying at <a href="https://softuni.bg/">@SoftUni</a>.  
+    Hello, I'm Rumen studying at <a href="https://softuni.bg/">@SoftUni</a>.Enthusiastic and ambitious in learning new stuff.Also have interest in Math and Physics.Learning to become Full-stack developer.
   </samp>
 </p>
 
-### Connect with me :smiley:
+### My social medial where you can connect with me
 <a href="https://twitter.com/cs_vedant">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
