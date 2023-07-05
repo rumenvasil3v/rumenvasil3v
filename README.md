@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=519&height=64&lines=Ongoing+training+at+%40SoftUni!;+On+my+way+to+become+a+Full-Stack+Developer!)](https://git.io/typing-svg)
 
-Hello, I'm Rumen studying at [@SoftUni](https://softuni.bg/).Enthusiastic and ambitious in learning new stuff.Also have interest in Math and Physics.Learning to become Full-stack developer.
+## Rumen Vasilev
+Hello, I'm Rumen studying at [@SoftUni](https://softuni.bg/). Enthusiastic and ambitious in learning new stuff.Also have interest in Math and Physics. Learning to become Full-stack developer.
 * :postbox: -> Email to reach me: __rumenstvass@gmail.com__
 ## Social media profiles where you can connect with me
 <a href="https://discord.com/users/457123255765958676">
