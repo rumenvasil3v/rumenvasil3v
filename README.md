@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=519&height=64&lines=Ongoing+training+at+%40SoftUni!;+On+my+way+to+become+a+Full-Stack+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=519&height=64&lines=Ongoing+training+at+%40SoftUni!;+On+my+way+to+become+a+Full-Stack+Developer!)](https://git.io/typing-svg)
 
-    ## Hello, I'm Rumen studying at [@SoftUni](https://softuni.bg/).Enthusiastic and ambitious in learning new stuff.Also have interest in Math and Physics.Learning to become Full-stack developer.
+Hello, I'm Rumen studying at [@SoftUni](https://softuni.bg/).Enthusiastic and ambitious in learning new stuff.Also have interest in Math and Physics.Learning to become Full-stack developer.
 * :postbox: -> Email to reach me: __rumenstvass@gmail.com__
 * 
-### Social media profiles where you can connect with me
+## Social media profiles where you can connect with me
 <a href="https://discord.com/users/457123255765958676">
   <img align="left" alt="Rumen Vasilev Discord" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Fdiscord-logo-transparent-svg-6.png&f=1&nofb=1&ipt=129c394b17e37e81ace43afe76717efbe38dd9bb8b87a8b6dd6f2678974b97e5ipo=images" />
 </a>
@@ -18,10 +18,10 @@
 </a>
 <br/>
 
-### GitHub Stats Card
+## GitHub Stats Card
 ![Rumen Vasilev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumenvasil3v&show_icons=true&theme=transparent)
 
-### Most Used Languages
+## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rumenvasil3v&layout=compact)
 
 
