@@ -15,12 +15,4 @@ Hello, I'm Rumen currently a student taking computer science course. Enthusiasti
   <img align="left" alt="Rumen Vasilev Facebook" width="28px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetdrawings.com%2Fvectors%2Flogo-facebook-vector-9.png&f=1&nofb=1&ipt=7161193c772f6020b29f2703b60dd2bf6460eb27cf3bf3ba90efe06802e0ceebipo=images" />
 </a>
 <br/>
-
-## GitHub Stats Card
-![Rumen Vasilev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumenvasil3v&show_icons=true&theme=transparent)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rumenvasil3v&layout=compact)
-
-
 ![Profile views label](https://komarev.com/ghpvc/?username=rumenvasil3v&color=blueviolet&style=for-the-badge)
