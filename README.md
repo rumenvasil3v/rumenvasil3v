@@ -17,7 +17,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Mission Systems &nbsp;·&nbsp; Skills
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">Skills
 
 <div align="center">
 
