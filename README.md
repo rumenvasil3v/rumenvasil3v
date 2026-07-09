@@ -57,7 +57,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sadfZW1/giphy.gif" width="26"> Telemetry &nbsp;·&nbsp; GitHub Stats
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sadfZW1/giphy.gif" width="26">GitHub Stats
 
 <div align="center">
 
