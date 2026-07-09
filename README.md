@@ -61,8 +61,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rumenvasil3v&show_icons=true&hide_border=true&bg_color=050508&title_color=7F97FF&icon_color=4a6cff&text_color=c9c9d1&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumenvasil3v&layout=compact&hide_border=true&bg_color=050508&title_color=7F97FF&text_color=c9c9d1&langs_count=8" alt="top langs" />
+<img height="165" src="https://github-readme-stats-five-omega-21.vercel.app/api?username=rumenvasil3v&show_icons=true&hide_border=true&bg_color=050508&title_color=7F97FF&icon_color=4a6cff&text_color=c9c9d1&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats-five-omega-21.vercel.app/api/top-langs/?username=rumenvasil3v&layout=compact&hide_border=true&bg_color=050508&title_color=7F97FF&text_color=c9c9d1&langs_count=8" alt="top langs" />
 
 <br/><br/>
 
