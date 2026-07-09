@@ -1,25 +1,98 @@
-<h1 align="center">Hey! My name is Rumen.</h1>
-<h3 align="center">Currently, I am heading towards my second year of studying Computer Science at Surrey starting in September. I love science, maths, electronics and bunch of other stuff (non-tech related as well). Within the tech industry I am interested in AI, cybersecurity and robotics and more specificaly the security implications of AI. Moreover, the industry that excites me the most is the space industry and I want to specialize within it protecting space assets and automating missions with AI and robotics. Apart from my tech life and when I need to clear and restart my mind I enjoy skateboarding and doing martial arts, hiking, wathcing movies and series, reading and travelling to interesting places. Have a look at my profile and projects and I would love to connect :). Enjoy!</h3>
+<!-- Animated cosmic wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:1a2a6c,100:4a6cff&height=200&section=header&text=Rumen%20Vasilev&fontColor=f4f4f6&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20·%20Security%20·%20AI%20%26%20Robotics%20·%20Space&descSize=18&descAlignY=60&animation=fadeIn" alt="Rumen Vasilev" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumenvasil3v&label=Profile%20views&color=0e75b6&style=flat" alt="rumenvasil3v" /> </p>
+<div align="center">
 
-- Take a look at my portfolio to learn more about me and my work. [https://rumenvasilev.dev](https://rumenvasilev.dev)
+<!-- Typed intro (character-by-character, spacey mono font, accent colour) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=800&color=7F97FF&center=true&vCenter=true&multiline=true&width=900&height=220&lines=Hey%21%20My%20name%20is%20Rumen%20and%20I%20will%20guide%20you%20through%20my%20journey%21;Studying%20Computer%20Science%20at%20the%20University%20of%20Surrey%2C%20heading%20into%202nd%20year.;I%20love%20science%2C%20maths%2C%20physics%2C%20electronics%20and%20plenty%20of%20non-tech%20stuff%20too.;Excited%20about%20AI%2C%20robotics%20and%20cybersecurity%20-%20especially%20the%20security%20of%20AI.;My%20goal%3A%20the%20space%20industry%20-%20protecting%20assets%2C%20automating%20with%20AI%20and%20robotics.;Off-hours%3A%20Arduino%2C%20skateboarding%2C%20movies%2C%20hiking%2C%20reading%20and%20travel.;Scroll%20down%20for%20contact%20details.%20Now%2C%20have%20fun%20%3A%29)](https://rumenvasilev.dev)
 
-- Moreover, I also run my personal blog on which I share my thoughts [https://gd0t.uk](https://gd0t.uk)
+<!-- Visitor counter + portfolio badge -->
+<a href="https://rumenvasilev.dev">
+  <img src="https://img.shields.io/badge/PORTFOLIO-rumenvasilev.dev-4a6cff?style=for-the-badge&labelColor=050508&logo=rocket&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=rumenvasil3v&label=PROFILE+VIEWS&color=4a6cff&style=for-the-badge&abbreviated=true" alt="Profile views" />
 
-- You can reach out to me through my personal email **rumenstvass@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rumen-vasilev-a79974264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rumen-vasilev-a79974264" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Mission Systems &nbsp;·&nbsp; Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumenvasil3v&show_icons=true&locale=en&layout=compact" alt="rumenvasil3v" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumenvasil3v&show_icons=true&locale=en" alt="rumenvasil3v" /></p>
+**Languages**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumenvasil3v&" alt="rumenvasil3v" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**Web &amp; Tools**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Security &amp; Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI, Robotics &amp; Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sadfZW1/giphy.gif" width="26"> Telemetry &nbsp;·&nbsp; GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rumenvasil3v&show_icons=true&hide_border=true&bg_color=050508&title_color=7F97FF&icon_color=4a6cff&text_color=c9c9d1&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumenvasil3v&layout=compact&hide_border=true&bg_color=050508&title_color=7F97FF&text_color=c9c9d1&langs_count=8" alt="top langs" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rumenvasil3v&hide_border=true&background=050508&stroke=4a6cff&ring=4a6cff&fire=7F97FF&currStreakLabel=7F97FF&sideLabels=c9c9d1&dates=5f5f68&currStreakNum=f4f4f6&sideNums=f4f4f6" alt="streak" />
+
+</div>
+
+<!-- Contribution snake (needs the snake GitHub Action — see setup notes) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rumenvasil3v/rumenvasil3v/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rumenvasil3v/rumenvasil3v/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/rumenvasil3v/rumenvasil3v/output/github-snake.svg" />
+</picture>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> End of Journey &nbsp;·&nbsp; Connect
+
+<div align="center">
+
+<a href="https://rumenvasilev.dev">
+  <img src="https://img.shields.io/badge/Portfolio-rumenvasilev.dev-4a6cff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=050508" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/rumen-vasilev-a79974264/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rumen_Vasilev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050508" alt="LinkedIn" />
+</a>
+<a href="mailto:rumenstvass@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rumenstvass@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050508" alt="Email" />
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a6cff,50:1a2a6c,100:050508&height=120&section=footer&reversal=true" alt="footer" />
