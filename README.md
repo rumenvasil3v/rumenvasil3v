@@ -1,5 +1,5 @@
 <!-- Animated cosmic wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:1a2a6c,100:4a6cff&height=200&section=header&text=Rumen%20Vasilev&fontColor=f4f4f6&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20·%20Security%20·%20AI%20%26%20Robotics%20·%20Space&descSize=18&descAlignY=60&animation=fadeIn" alt="Rumen Vasilev" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:1a2a6c,100:4a6cff&height=200&section=header&text=Rumen%20Vasilev&fontColor=f4f4f6&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20·%20Security%20·%20AI%20·%20Robotics%20·%20Space&descSize=18&descAlignY=60&animation=fadeIn" alt="Rumen Vasilev" />
 
 <div align="center">
 
